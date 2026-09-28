@@ -102,10 +102,10 @@ export const portfolio = {
   tagline:
     "Full-stack developer focused on building clean, user-friendly web applications with React.js, Next.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into practical products and continuously improving my development skills.",
   availability: "Open to opportunities",
-  location: "Rishikesh, Uttarakhand, India",
-  email: "your-email@example.com",
-  photo: "/me.jpg",
-  resumeUrl: "/resume.pdf",
+  location: "Dehradun, Uttarakhand, India",
+  email: "anujnegi9997@gmail.com",
+  photo: "/Me.jpg",
+  resumeUrl: "/Resume.pdf",
 
   card: { id: "DEV-0001", status: "Open to work" },
 
@@ -118,8 +118,8 @@ export const portfolio = {
 
   socials: [
     { label: "GitHub", href: "https://github.com/anujnegi09" },
-    { label: "LinkedIn", href: "https://linkedin.com/in/anuj-negi-65442b349/" },
-    { label: "Email", href: "mailto:your-email@example.com" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/anuj-negi09/" },
+    { label: "Email", href: "anujnegi9997@gmail.com" },
   ],
 
   stats: [
@@ -170,7 +170,7 @@ export const portfolio = {
     },
     {
       title: "Master of Computer Applications (MCA) — Ongoing",
-      place: "Online",
+      place: "Swami Rama Himalayan University",
       period: "2026 — Present",
     },
   ],
@@ -200,7 +200,7 @@ export const portfolio = {
         "A real-time chat application built with the MERN stack. It includes user authentication, real-time messaging with Socket.io, image uploads through Cloudinary, and a Node.js/Express backend connected to MongoDB.",
       tags: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "Cloudinary", "JWT"],
       github: "https://github.com/anujnegi09/Chat-Application",
-      live: "",
+      live: "https://chat-app-vfua.onrender.com",
     },
     {
       title: "Dehradun LULC Change Detection",
